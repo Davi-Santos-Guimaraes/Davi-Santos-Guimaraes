@@ -2,7 +2,7 @@
 
 ## 🇧🇷 Português
 
-Sou estudante de Ciência da Computação na PUC Goiás e atuo profissionalmente no mercado corporativo desde 2019. Meu foco principal está na Arquitetura de Computadores e Sistemas, buscando entender e otimizar o funcionamento da tecnologia desde a sua base.
+Sou estudante de Ciência da Computação na PUC Goiás e estudo programação desde 2020. Meu foco principal está na Arquitetura de Computadores e Sistemas, buscando entender e otimizar o funcionamento da tecnologia desde a sua base.
 
 Minha trajetória é impulsionada por um grande interesse na programação de baixo nível e na lógica digital. Gosto de explorar a ponte entre hardware e software, o que me leva a trabalhar com manipulação direta de memória, performance e desenvolvimento integrado.
 
@@ -12,6 +12,7 @@ Além do universo do baixo nível, também atuo na criação e customização pa
 
 **Linguagens e Baixo Nível**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![VHDL/Verilog](https://img.shields.io/badge/FPGA-L%C3%B3gica_Digital-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,7 +37,7 @@ Além do universo do baixo nível, também atuo na criação e customização pa
 
 ## 🇺🇸 English
 
-I am a Computer Science student at PUC Goiás and have been working professionally in the corporate market since 2019. My main focus is on Computer Architecture and Systems, aiming to understand and optimize how technology works from the ground up.
+I am a Computer Science student at PUC Goiás and have been studying programming since 2020. My main focus is on Computer Architecture and Systems, aiming to understand and optimize how technology works from the ground up.
 
 My journey is driven by a strong interest in low-level programming and digital logic. I enjoy exploring the bridge between hardware and software, which leads me to work with direct memory manipulation, performance optimization, and integrated development.
 
@@ -46,6 +47,7 @@ Beyond the low-level universe, I also work with the creation and customization o
 
 **Languages & Low-Level**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![VHDL/Verilog](https://img.shields.io/badge/FPGA-Digital_Logic-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
